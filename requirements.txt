@@ -2,5 +2,5 @@ flask
 numpy
 sklearn
 pandas
-xgboost==1.16.2
+xgboost==1.6.2
 scikit-learn
